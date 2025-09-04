@@ -7,7 +7,7 @@ manifest:
   projects:
     - name: zmk
       remote: awkannan
-      revision: v0.3
+      revision: develop
       import: app/west.yml
     - name: zmk-gpio-behavior
       remote: awkannan
